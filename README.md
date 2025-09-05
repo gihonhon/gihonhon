@@ -17,16 +17,19 @@ Sekarang lagi serius mendalami dunia **Web Development** 🌐
 ---
 
 ## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Bun](https://img.shields.io/badge/-Bun-000?&logo=bun)
-![Hono](https://img.shields.io/badge/-HonoJS-000?&logo=react)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwind-css)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Bun](https://img.shields.io/badge/-Bun-000?style=for-the-badge&logo=bun)
+![Hono](https://img.shields.io/badge/-HonoJS-000?style=for-the-badge&logo=hono)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![FireBase](https://img.shields.io/badge/-FireBase-000?style=for-the-badge&logo=firebase&logoColor=%23DD2C00)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql&logoColor=%234169E1)
 
 ---
 

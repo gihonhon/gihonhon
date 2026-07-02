@@ -1,11 +1,8 @@
 # 👋 Halo, aku Agung!
 
-Mahasiswa **Informatika** di [Institut Teknologi Kalimantan](https://itk.ac.id).  
-Sekarang lagi serius mendalami dunia **Web Development** 🌐  
+Seorang **Aspiring Full-Stack Developer** dengan minat besar pada pengembangan web modern.
 
-✨ Saat ini aku ikut program **Dicoding x Asah** dengan path:  
-**React Backend with AI** 🚀
-
+🌟 Lulusan program intensif Dicoding x Asah 2025 (Path: React Backend with AI).
 ---
 
 ## 🔥 Fokus Belajar

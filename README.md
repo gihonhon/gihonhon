@@ -30,7 +30,4 @@ Seorang **Aspiring Full-Stack Developer** dengan minat besar pada pengembangan w
 
 ---
 
-## 📊 GitHub Stats
-![Agung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gihonhon&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gihonhon&layout=compact&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gihonhon&layout=pie&langs_count=4&theme=react)](https://github-stats-extended.vercel.app/api/top-langs?username=gihonhon&layout=pie&langs_count=4&theme=react)
